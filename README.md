@@ -5,8 +5,7 @@ Inside index.css:
     - only one line that makes the canvas fit tightly in the screen
 
 Inside astar.js:
-    - I made a pathfinding document, this one's a bit tricky to figure out but basically
-      it follows the A* (pronounced:A star) pathfinding algorithm to find the closest route
+    - I made a pathfinding, basically it follows the A* pathfinding algorithm to find the closest route
 
 Inside index.js:
     - The main file, setting up the canvas with four main classes:
