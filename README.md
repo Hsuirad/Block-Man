@@ -6,7 +6,7 @@ just pacman, but way less pretty
 
 
 
-##Breakdown
+## Breakdown
 
 Inside index.html:
     - the absolute basics, just setting up the canvas and adding the javascript tag
