@@ -1,3 +1,12 @@
+#Block Man
+just pacman, but way less pretty
+
+![Example img](img.png)
+
+
+
+##Breakdown
+
 Inside index.html:
     - the absolute basics, just setting up the canvas and adding the javascript tag
 
